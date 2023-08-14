@@ -4,4 +4,5 @@ you can see the summary of this task in [presentation file](https://github.com/I
 and full report of this task in [final report](https://github.com/IrvnC/Information-retrieval-and-sentiment-analysis-task/blob/main/COVID%2019%20TWEETS%20USING%20R/Final%20Report.pdf).<br>
 
 Feel Free to use this resource if u are interested<br>
+PLEASE STOP PLAGIARISM<br>
 Thankyou-
